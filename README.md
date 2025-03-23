@@ -10,7 +10,7 @@
 
 <!-- Skills -->
 ### Skills 🌱
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,git,github,vscode,androidstudio" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=androidstudio,vscode,git,github" />
 
 ## Stats :chart_with_downwards_trend:
 <!--Profile Views-->
