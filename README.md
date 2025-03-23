@@ -5,7 +5,7 @@
 ## Profile 📝
 
 - I'm a university students in Japan.
-- I’m currently learning Java.
+- I’m currently learning Android app development.
 
 
 <!-- Skills -->
