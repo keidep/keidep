@@ -5,7 +5,7 @@
 ## Profile 📝
 
 - I'm a university students in Japan.
-- I’m currently learning Android app development.
+- I’m currently learning Android Studio.
 
 
 <!-- Skills -->
@@ -23,10 +23,11 @@
     <img height="20" src="https://img.shields.io/github/followers/keidep?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
 <!--Commit Status-->
-![Kei's GitHub](https://github-readme-stats.vercel.app/api?username=keidep&show_icons=true&theme=radical)
-![Kei's GitHub stats](https://github-readme-stats.vercel.app/api?username=keidep&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![](https://raw.githubusercontent.com/keidep/keidep/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/keidep/keidep/main/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/keidep/keidep/main/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/keidep/keidep/main/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/keidep/keidep/main/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--トロフィー-->
 ## Trophy :trophy:
