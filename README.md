@@ -4,7 +4,7 @@
 <!-- プロフィール -->
 ## Profile 📝
 
-- I'm a university students in Japan.
+- I'm a university student in Japan.
 - I’m currently learning Android Studio.
 
 
